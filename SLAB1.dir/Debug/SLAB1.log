@@ -1,0 +1,55 @@
+﻿  Building Custom Rule D:/GIt/NewLabs/3821B1FI3SecondSEM/CMakeLists.txt
+  main.cpp
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(33,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(34,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(35,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(36,29): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(37,28): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(42,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(43,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(44,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(45,28): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(46,27): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(54,28): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(55,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(63,22): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(66,27): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(67,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(73,25): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(74,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(77,28): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(78,25): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(86,27): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(87,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(96,27): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(97,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(106,27): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(107,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(113,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(114,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(115,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(117,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(121,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(122,27): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(124,28): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(125,26): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(129,22): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(130,21): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(131,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(132,31): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(137,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(138,22): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(139,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(140,32): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(146,33): warning C4305: аргумент: усечение из "double" в "float"
+D:\GIt\NewLabs\3821B1FI3SecondSEM\main.cpp(148,35): warning C4305: аргумент: усечение из "double" в "float"
+  DwarfPlanets.cpp
+  EarthGroupPlanets.cpp
+  Gigsnts.cpp
+  OtherObjects.cpp
+  SolarSysObj.cpp
+  Sputnics.cpp
+Sputnics.cpp(24,9): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+  Stars.cpp
+  Создание кода...
+  SLAB1.vcxproj -> D:\GIt\NewLabs\3821B1FI3SecondSEM\Debug\SLAB1.exe
