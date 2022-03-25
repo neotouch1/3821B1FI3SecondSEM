@@ -17,7 +17,7 @@ int main()
 	setlocale(LC_ALL, "ru");
 
 
-	// Солнце
+	// Солнце. Star
 
 	TStars Sun;
 	Sun.SetWeight(332946);		  // В массах земли.
